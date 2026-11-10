@@ -1,0 +1,3 @@
+SERVER_IP = "10.91.183.24"
+PORT = 12345
+SECRET_KEY = "sync"
